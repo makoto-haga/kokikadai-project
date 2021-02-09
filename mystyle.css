@@ -1,8 +1,8 @@
 h1 { color:     rgb(0, 211, 176);}
-h2 { color:     rgb(59, 9, 241); }
+h2 { color:     rgb(98, 9, 241); }
 h3 { color:     rgb(241, 10, 125); } 
 
-p.sample1 {border: double 10px #73ff00;}
+p.sample1 {border: double 10px #0077ff;}
 p.sample2 {border: inset 10px #eeff00;}
 
 
