@@ -1,1 +1,1 @@
-function sayhello1(){alert('Hello,'+document.getElementById('who1').value + 'さん'+'!');}
+function sayhello61(){alert('Hello,'+document.getElementById('who1').value + 'さん'+'!');}
