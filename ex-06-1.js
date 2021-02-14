@@ -1,5 +1,5 @@
 function imgchange1(){
-    document.getElementById('logo').src='./image/tunku.jpg'
+    document.getElementById('logo').src='./image/tunku.jpg';
 }
 
 function show_innerHTML(){
